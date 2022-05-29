@@ -66,26 +66,16 @@ footer {
 
 @media screen and (max-width: 768px) {
   main{display:block;
+  width:100%;
+  
+  
   }
   
   .example {
-  width: 100%;
-  margin-right: 20px;
-  }
-  
-  .example-img1 {
   width: 90%;
+  margin: 0 auto 20px;
   }
-  
-  .example-img2 {
-  width: 90%
-  
-  }
-  
-  .example-img3 {
-  width: 90%
-  
-  }
+
   
   
 }
